@@ -1,0 +1,12 @@
+2024-10-12 13:26:24,404 [main] INFO HRM App - ========info========
+2024-10-12 13:26:24,410 [main] ERROR HRM App - ========error========
+2024-10-12 13:26:24,411 [main] WARN HRM App - ========warn========
+2024-10-12 13:26:28,812 [main] INFO HRM App - launching chrome browser
+2024-10-12 13:26:30,232 [main] INFO HRM App - launching app : https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-10-12 13:26:35,416 [main] INFO HRM App - enter email value
+2024-10-12 13:26:37,548 [main] INFO HRM App - fetch email attribute value: coforgesdet@test.com
+2024-10-12 13:26:37,569 [main] INFO HRM App - ***********coforgesdet@test.com
+2024-10-12 13:26:37,570 [main] INFO HRM App - enter password value
+2024-10-12 13:26:37,673 [main] INFO HRM App - click on rem checkbox
+2024-10-12 13:26:37,738 [main] INFO HRM App - click on login button
+2024-10-12 13:26:37,805 [main] INFO HRM App - closing Application

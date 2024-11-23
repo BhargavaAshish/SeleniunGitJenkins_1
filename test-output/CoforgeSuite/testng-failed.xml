@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CoforgeSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FirefoxTest(failed)">
+    <parameter name="coforge_br" value="firefox"/>
+    <classes>
+      <class name="crossBorwserTest.SignUpTest_CrossBrowserTest">
+        <methods>
+          <include name="closeApp"/>
+          <include name="verifySignTest"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- crossBorwserTest.SignUpTest_CrossBrowserTest -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [CoforgeSuite] -->
